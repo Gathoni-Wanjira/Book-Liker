@@ -1,0 +1,8 @@
+EXPECTATIONS.
+ -Listing Books.
+ -Show details
+ -Like a book
+
+
+PSEUDOCODE. 
+
