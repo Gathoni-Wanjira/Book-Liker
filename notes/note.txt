@@ -6,3 +6,25 @@ EXPECTATIONS.
 
 PSEUDOCODE. 
 
+    1.create a fetch function.
+ -initialize a fetch request
+ -Return data 
+
+     2.display(books) function 
+ *Create the nodes 
+    -addeventlistener ('click', displayDetailsBooks) on our books card element.
+    -when clicking on the books card node callback displayDetailsBooks function.
+ -img
+ -libooks
+ -authors
+ -description
+ -title
+ -no: of users  
+
+ *loop through the nodes
+
+ *assign values 
+
+ *append nodes  
+
+  3.
